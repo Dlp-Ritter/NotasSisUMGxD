@@ -12,6 +12,7 @@ La fibra funciona gracias a un fenómeno óptico llamado **reflexión total inte
 2. **Revestimiento** (cladding): Material con índice de refracción menor
 3. **Resultado**: La luz queda "atrapada" dentro del núcleo, rebotando en las paredes sin escapar
 
+![[5.png ]]
 ## 2. Como funciona la conversion de Bits a Fotones
 
 ### **- Conversión Eléctrica → Óptica (Transmisión)**
